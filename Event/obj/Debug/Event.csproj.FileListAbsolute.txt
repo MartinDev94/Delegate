@@ -1,0 +1,6 @@
+D:\C#\sevagrutyun\Delegate\Event\bin\Debug\Event.exe.config
+D:\C#\sevagrutyun\Delegate\Event\bin\Debug\Event.exe
+D:\C#\sevagrutyun\Delegate\Event\bin\Debug\Event.pdb
+D:\C#\sevagrutyun\Delegate\Event\obj\Debug\Event.csproj.CoreCompileInputs.cache
+D:\C#\sevagrutyun\Delegate\Event\obj\Debug\Event.exe
+D:\C#\sevagrutyun\Delegate\Event\obj\Debug\Event.pdb
